@@ -1,3 +1,5 @@
+source: https://confluence.atlassian.com/bitbucket/use-a-git-branch-to-merge-a-file-681902555.html
+
 Being a space station administrator comes with certain responsibilities. Sometimes you’ll need to keep information locked down, especially when mapping out new locations in the solar system. Learning branches will allow you to update your files and only share the information when you're ready.  
 Branches are most powerful when you're working on a team. You can work on your own part of a project from your own branch, pull updates from Bitbucket, and then merge all your work into the main branch when it's ready. Our documentation includes more explanation of why you would want to use branches.
 A branch represents an independent line of development for your repository. Think of it as a brand-new working directory, staging area, and project history. Before you create any new branches, you automatically start out with the main branch (called  master ). For a visual example, this diagram shows the master branch and the other branch with a bug fix update.
